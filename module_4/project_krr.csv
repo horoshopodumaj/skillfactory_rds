@@ -1,0 +1,14 @@
+flight_id,departure_airport,city,arrival_airport,city_arrival,model,ticket_economy,ticket_comfort,ticket_business,seat,amount,actual_arrival,time_actual,time_scheduled
+157563,KRR,Krasnodar,NOZ,Novokuznetsk,Boeing 737-300,11,0,0,130,386100.00,2017-01-07T13:49:00Z,296.0,295.0
+157570,KRR,Krasnodar,NOZ,Novokuznetsk,Boeing 737-300,9,0,3,130,639100.00,2016-12-17T13:51:00Z,299.0,295.0
+157586,KRR,Krasnodar,NOZ,Novokuznetsk,Boeing 737-300,12,0,0,130,421200.00,2017-02-11T16:22:00Z,294.0,295.0
+157597,KRR,Krasnodar,NOZ,Novokuznetsk,Boeing 737-300,10,0,1,130,456400.00,2016-12-24T13:51:00Z,295.0,295.0
+157600,KRR,Krasnodar,NOZ,Novokuznetsk,Boeing 737-300,10,0,2,130,561800.00,2016-12-03T13:46:00Z,294.0,295.0
+157610,KRR,Krasnodar,NOZ,Novokuznetsk,Boeing 737-300,9,0,3,130,642600.00,2017-02-18T13:41:00Z,289.0,295.0
+157612,KRR,Krasnodar,NOZ,Novokuznetsk,Boeing 737-300,11,0,1,130,491500.00,2016-12-31T13:55:00Z,298.0,295.0
+157587,KRR,Krasnodar,NOZ,Novokuznetsk,Boeing 737-300,9,0,2,130,530200.00,2017-01-28T13:51:00Z,293.0,295.0
+157598,KRR,Krasnodar,NOZ,Novokuznetsk,Boeing 737-300,11,0,1,130,491500.00,2017-02-04T13:52:00Z,299.0,295.0
+157567,KRR,Krasnodar,NOZ,Novokuznetsk,Boeing 737-300,10,0,2,130,568800.00,2017-02-25T13:49:00Z,296.0,295.0
+157579,KRR,Krasnodar,NOZ,Novokuznetsk,Boeing 737-300,11,0,1,130,491500.00,2017-01-14T13:47:00Z,294.0,295.0
+157580,KRR,Krasnodar,NOZ,Novokuznetsk,Boeing 737-300,10,0,2,130,561800.00,2017-01-21T13:47:00Z,293.0,295.0
+157601,KRR,Krasnodar,NOZ,Novokuznetsk,Boeing 737-300,12,0,0,130,421200.00,2016-12-10T13:51:00Z,296.0,295.0
